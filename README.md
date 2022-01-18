@@ -1,1 +1,1 @@
-Hello Odin!
+This project is a recipe website, aiming to practice elements of HTML learned so far, and also to practice uploading things to Git and Github.
